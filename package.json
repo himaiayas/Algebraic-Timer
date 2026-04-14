@@ -12,7 +12,7 @@
     "@vvo/tzdb": "^6.142.0",
     "framer-motion": "^11.3.19",
     "mathjs": "^13.0.3",
-    "next": "14.1.4",
+    "next": "15.5.15",
     "next-themes": "^0.3.0",
     "plotly.js": "^2.34.0",
     "react": "^18",
